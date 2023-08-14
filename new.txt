@@ -1,0 +1,5 @@
+Name Anastasii
+Age 30
+Home animal - 0
+Salary - 1000$
+
